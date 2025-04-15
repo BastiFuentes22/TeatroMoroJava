@@ -1,7 +1,6 @@
 
 package com.mycompany.teatromorojava;
 
-// Versión simplificada del sistema Teatro Moro con mejoras visuales y validación por edad
 import java.util.Scanner;
 
 public class TeatroMoroApp {
